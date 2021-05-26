@@ -7,6 +7,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+
             UserCollection myCollection = new UserCollection();
 
             foreach(Element element in myCollection) 
